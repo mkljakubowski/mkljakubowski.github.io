@@ -7,24 +7,24 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: MJ's Blog
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: MJ's Blog
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
+  name: Mikołaj Jakubowski
+  email: mkl.jakubowski@gmail.com
   github: dbtek
   twitter: dbtek
   pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  linkedin: mkljakubowski
+  bio: Yet another Scala blog
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
